@@ -1,0 +1,2 @@
+﻿Kết quả của Quesstion2 khác với Quesstion1 do 2 thread ứng với 2 xe BMW và Toyota tranh giành ghi lên màn hình
+-> cách để có thể được kết quả như Quesstion1 đó là sử dụng mutex để lock lại, khi action run của Toyota kết thúc thì mới thực hiện action run của BMW
